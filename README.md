@@ -24,10 +24,10 @@ Machine learning algorithms is a master's course in algorithms and computations 
 
 - Asef Afsahi (👨‍🍳)
 - Hoseine Tavakolian
-- Zahra boriri
-- parsa Hadadian
-- mohammad jalai
-- mohammad hatami
+- Zahra Boriri
+- Parsa Hadadian
+- Mohammad Jalai
+- Mohammad Hatami
 </details>
 
 ## 📃 sylabes:
