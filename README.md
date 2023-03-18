@@ -7,9 +7,11 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://youtube.com)
 
 <hr>
+<p align="center>
 <center>
 <img class="site-logo img-responsive" src="https://hidalou.com/wp-content/uploads/2020/09/1516611123-logo-2.png" alt="پردیس دانشکده های فنی" align=center>
 </center>
+<p>
 
 <hr>
 Machine learning algorithms is a master's course in algorithms and computations presented at the University of Tehran.
