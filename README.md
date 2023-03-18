@@ -3,12 +3,12 @@
 
 
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white& )
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&)](https://pytorch.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://youtube.com)
 
 <hr>
 <center>
-<img class="site-logo img-responsive" src="https://eng.ut.ac.ir/images/eng/fa/website/site-logo/2022/1670145311-.png" alt="پردیس دانشکده های فنی" align=center>
+<img class="site-logo img-responsive" src="https://hidalou.com/wp-content/uploads/2020/09/1516611123-logo-2.png" alt="پردیس دانشکده های فنی" align=center>
 </center>
 
 <hr>
@@ -35,42 +35,42 @@ Machine learning algorithms is a master's course in algorithms and computations 
 ### PART I. DATA ANALYSIS FOUNDATIONS
 
 <details> 
-<summary>1 Data Mining and Analysis</summary>
+<summary>Data Mining and Analysis</summary>
  <hr>
 
-- 1.1 Data Matrix 
-- 1.2 Attributes 
-- 1.3 Data: Algebraic and Geometric View 
-- 1.4 Data: Probabilistic View 
-- 1.5 Further Reading 
+- 1 Data Matrix 
+- 2 Attributes 
+- 3 Data: Algebraic and Geometric View 
+- 4 Data: Probabilistic View 
+- 5 Further Reading 
 </details>
 
 <details> 
-<summary>2 Numeric Attributes</summary>
+<summary>Numeric Attributes</summary>
  <hr>
 
-- 2.1 Univariate Analysis 
-- 2.2 Bivariate Analysis 
-- 2.3 Multivariate Analysis 
-- 2.4 Data Normalization 
-- 2.5 Normal Distribution
-- 2.6 Further Reading
+- 1 Univariate Analysis 
+- 2 Bivariate Analysis 
+- 3 Multivariate Analysis 
+- 4 Data Normalization 
+- 5 Normal Distribution
+- 6 Further Reading
 </details>
 
 
 <details> 
-<summary>3 Categorical Attributes</summary>
+<summary>Categorical Attributes</summary>
  <hr>
 
+- 1 Univariate Analysis 
+- 2 Bivariate Analysis 
+- 3 Multivariate Analysis 
+- 4 Data Normalization 
+- 5 Normal Distribution
+- 6 Further Reading
 
 </details>
 
-<details> 
-<summary>4 Graph Data</summary>
- <hr>
-
-
-</details>
 
 
 <details> 
