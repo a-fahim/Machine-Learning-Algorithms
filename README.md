@@ -25,7 +25,7 @@ Machine learning algorithms is a master's course in algorithms and computations 
  <hr>
 
 - Asef Afsahi (👨‍🍳)
-- Hoseine Tavakolian
+- Hossein Tavakolian
 - Zahra Boreiri
 - Parsa Hadadian
 - Mohammad Jalai
