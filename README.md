@@ -14,7 +14,7 @@
 <p>
 
 <hr>
-Machine learning algorithms is a master's course in algorithms and computations presented at the University of Tehran.
+<u>Machine learning algorithms</u> is a master's course in algorithms and computations presented at the University of Tehran.
 
 ## Teacher:
 
